@@ -7,7 +7,7 @@
 
 ### 1、什么是二元学习法？
 
-<img src=".\model_tree_imgs\二元学习法.png" style="zoom:50%;"/>
+<img src=".\model_tree_imgs\二元学习法.png" style="zoom:50%;" />
 
 #### 1、静态学习
 
@@ -95,8 +95,6 @@
 
 <img src=".\model_tree_imgs\思维模型层次.jpg" style="zoom:50%;"/>
 
-
-
 **4、记忆原理**
 
 | **1、 一个是存量思维，用外接大脑代替人脑实现永久记忆；** |
@@ -113,11 +111,11 @@
 
 ### 2、知识树实操
 
-<img src=".\model_tree_imgs\知识树结构.png" style="zoom:50%;"/>
+<img src=".\model_tree_imgs\知识树结构.png" style="zoom:50%;" />
 
 ####  1、大框架
 
-![](E:\my_document\doc\model_tree_imgs\知识树-大框架.png)
+![](.\model_tree_imgs\知识树-大框架.png)
 
 <font color=red>需求导向，一切都是自己的最紧迫的需求开始，别人的框架只是借鉴作用。</font>
 
@@ -131,7 +129,7 @@
 
 框架本身没有意义，它是把思维模型给聚集起来，形成金字塔结构。思维模型是对具体的提炼，知识的浓缩。
 
-<img src=".\model_tree_imgs\框架-思维模型的关系.png" style="zoom:80%;" />
+<img src=".\model_tree_imgs\框架-思维模型的关系.png" style="zoom:80%;"/>
 
 #### 3、 做法和注意事项
 
@@ -163,6 +161,8 @@
 
 <img src=".\model_tree_imgs\常用分类.png" style="zoom:60%;"/>
 
+
+
 ##### 2、思维模型
 
 学到的新知识都应该归纳为思维模型
@@ -177,11 +177,15 @@
 
 <img src=".\model_tree_imgs\思维模型.png" style="zoom:60%;"/>
 
+
+
 ##### 3、茂密的叶子
 
 知识树要有叶子，同时要枝繁叶茂，才能进行光合作用，对一个思维模型的理解才能更深刻
 
 <img src=".\model_tree_imgs\知识树-叶子.png" style="zoom:62%;"/>
+
+
 
 | **①要有序号**                                         |
 | ----------------------------------------------------- |
@@ -189,3 +193,12 @@
 | **③关键词标红加粗**                                   |
 | **④要有自己的思考**                                   |
 | **⑤细分到是什么、为什么、怎么做、注意事项、经典案例** |/
+
+
+
+## 4、模型树的修剪
+
+1. 怎么修剪。
+2. 修剪的原则
+3. 实践
+
