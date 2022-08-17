@@ -1,9 +1,16 @@
+
 set nu
-" set ts=4
-" set sw=4
+set ts=4
+set sw=4
 set enc=utf-8
 set nocompatible
-set nobackup
+source $VIMRUNTIME/vimrc_example.vim
+" 配置backup dir
+"set backup
+"set dir=~/vimfiles/backupdir
+set backupdir=~/vimfiles/backupdir
+"set directory=%TMP%
+
 set undodir=~/vimfiles/undodir
 set fileencodings=ucs-bom,utf-8,gb18030,latin1
 " 配置space和tab显示颜色
@@ -20,6 +27,10 @@ endif
 
 if !isdirectory(&undodir)
 	call mkdir(&undodir, 'p', 0700)
+endif
+
+if !isdirectory(&backupdir)
+	call mkdir(&backupdir, 'p', 0700)
 endif
 
 " 鼠标的配置
