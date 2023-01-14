@@ -1,0 +1,31 @@
+[gui]
+	recentrepo = F:/code/openprocmon
+	recentrepo = F:/chromium/src
+	encoding = utf-8
+[core]
+	autocrlf = false
+	filemode = false
+	edit = notepad.exe
+	quotepath = false
+[branch]
+	autosetuprebase = always
+# [https]
+	# proxy = http://127.0.0.1:64623
+# [http]
+	# proxy = http://127.0.0.1:64623
+[diff]
+	tool = tortoisediff
+	prompt = false
+[difftool "tortoisediff"]
+	cmd = \"C:/Program Files/TortoiseGit/bin/TortoiseGitMerge.exe\" -mine $REMOTE -base $LOCAL
+[merge]
+	tool = tortoisemerge
+	prompt = false
+[mergetool "tortoisemerge"]
+	cmd = \"C:/Program Files/TortoiseGit/bin/TortoiseGitMerge.exe\" -mine $LOCAL -theirs $REMOTE -base $BASE -merged $MERGED
+[i18n "commit"]
+[i18n "logoutput"]
+	encoding = utf-8
+[alias]
+	co = checkout
+	st = status
